@@ -1,5 +1,6 @@
 # Portfolio
  Loc Luong's Portfolio
+ Documentation screenshots: https://docs.google.com/document/d/17BgwTjLnC65AuFUOWH48GAAqYtN4eUTDYuaBL6XqeWY/edit?usp=sharing
 
 
 DOWNLOAD THE ENTIRE FILE FROM GITHUB
