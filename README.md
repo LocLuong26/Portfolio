@@ -1,6 +1,8 @@
 # Portfolio
  Loc Luong's Portfolio
-Download Files
+
+
+DOWNLOAD THE ENTIRE FILE FROM GITHUB
 
 unzip, and open "loc port"
 Open File 2 "website"
