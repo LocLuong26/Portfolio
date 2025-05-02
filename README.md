@@ -1,8 +1,6 @@
 # Portfolio
  Loc Luong's Portfolio
-Open the file "loc portfolio"
-Open "website"
-Click on html link "index.html"
-
-
-Everything should work fine. Here is a google doc for proper documentation, Github was not working for me the past couple weeks.
+Go ahead and download the git files onto desktop.
+Once all files are downloaded, unzip, and open "loc port"
+double click and onced opoen, 2 files should appear. "website", and ".vs"
+open "website" and double click on the index.html. Should be open with an explorer page, google by default if set
